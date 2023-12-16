@@ -1,0 +1,32 @@
+<idea-plugin>
+  <id>com.nisus.my-classic-eclipse-dark</id>
+  <name>My Classic Eclipse Theme Dark</name>
+  <version>1.1.0</version>
+  <vendor email="liuhejun108@163.com" url="https://github.com/Nisus-Liu">Nisus</vendor>
+  <idea-version since-build="192.0"/>
+
+  <description><![CDATA[
+    <p>My Classic Eclipse Dark</p>
+    <p>My Classic Eclipse Dark <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
+    <br/>
+    ]]></description>
+
+  <change-notes><![CDATA[
+    <ul>
+      <li>Change color configuration like "Atom One Dark Theme"</li>
+    </ul>
+    ]]></change-notes>
+
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="com.nisus.my-classic-eclipse-dark" path="/META-INF/my_classic_eclipse_dark.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
