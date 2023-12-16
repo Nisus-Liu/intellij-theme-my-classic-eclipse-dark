@@ -524,7 +524,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="3e5d46" />
+        <option name="FOREGROUND" value="527c5d" />
         <!--<option name="FONT_TYPE" value="1" />-->
       </value>
     </option>
@@ -642,7 +642,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="990000" />
+        <option name="FOREGROUND" value="966066" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -739,9 +739,17 @@
         <option name="BACKGROUND" value="692424" />
       </value>
     </option>
+    <!--<option name="DEPRECATED_ATTRIBUTES">-->
+    <!--  <value>-->
+    <!--    <option name="EFFECT_COLOR" value="abb2bf" />-->
+    <!--    <option name="EFFECT_TYPE" value="3" />-->
+    <!--  </value>-->
+    <!--</option>-->
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="abb2bf" />
+        <option name="FOREGROUND" value="c02a2a" />
+        <!--<option name="BACKGROUND" value="efefef" />-->
+        <option name="EFFECT_COLOR" value="ab2525" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1804,12 +1812,12 @@
         <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
-    <option name="TYPO">
-      <value>
-        <option name="EFFECT_COLOR" value="98c379" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
+    <!--<option name="TYPO">-->
+    <!--  <value>-->
+    <!--    <option name="EFFECT_COLOR" value="98c379" />-->
+    <!--    <option name="EFFECT_TYPE" value="2" />-->
+    <!--  </value>-->
+    <!--</option>-->
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
@@ -1823,8 +1831,10 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff8c00" />
-        <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
+        <!--<option name="EFFECT_COLOR" value="ff8c00" />-->
+        <!--<option name="ERROR_STRIPE_COLOR" value="ff8c00" />-->
+        <option name="EFFECT_COLOR" value="78605D" />
+        <option name="ERROR_STRIPE_COLOR" value="78605D" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

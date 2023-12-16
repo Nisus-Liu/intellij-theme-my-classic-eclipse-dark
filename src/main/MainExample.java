@@ -9,11 +9,13 @@
 public class MainExample {
     public static final String sfs = "abc";
     private String field;
+    private Integer unusedField;
     @Deprecated
     public static Boolean deprecatedProp;
 
     public MainExample(String field) {
         System.out.println(field);
+        this.field = field;
     }
 
     public static void main(String[] args) {
@@ -34,9 +36,13 @@ public class MainExample {
 
     }
 
+
     // @Deprecated(forRemoval = true)
     // public static void deprecatedForRemoval() {
     //
     // }
 
+    public String getField() {
+        return field;
+    }
 }
