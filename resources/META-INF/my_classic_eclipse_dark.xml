@@ -1818,6 +1818,12 @@
     <!--    <option name="EFFECT_TYPE" value="2" />-->
     <!--  </value>-->
     <!--</option>-->
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="262b26" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
