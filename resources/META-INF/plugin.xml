@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.nisus.my-classic-eclipse-dark</id>
   <name>My Classic Eclipse Theme Dark</name>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
   <vendor email="liuhejun108@163.com" url="https://github.com/Nisus-Liu">Nisus</vendor>
   <idea-version since-build="192.0"/>
 
@@ -9,11 +9,11 @@
     <p>My Classic Eclipse Dark</p>
     <p>My Classic Eclipse Dark <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
     <br/>
-    ]]></description>
+Fine-tune colors    ]]></description>
 
   <change-notes><![CDATA[
     <ul>
-      <li>Change color configuration like "Atom One Dark Theme"</li>
+      <li>Fine-tune colors</li>
     </ul>
     ]]></change-notes>
 
