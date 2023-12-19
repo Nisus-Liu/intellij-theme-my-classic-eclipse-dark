@@ -52,7 +52,6 @@
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
     <!--<option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />-->
-    <!--<option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />-->
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
@@ -72,8 +71,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="606368" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
-    <!--<option name="SELECTION_BACKGROUND" value="6b7995" />-->
-    <option name="SELECTION_BACKGROUND" value="C9C6BE" />
+    <option name="SELECTION_BACKGROUND" value="e1e2cb" />
     <option name="TEARLINE_COLOR" value="4f575f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
@@ -629,7 +627,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="465044" />
+        <option name="FOREGROUND" value="4d6a4c" />
         <!--<option name="FONT_TYPE" value="1" />-->
       </value>
     </option>
